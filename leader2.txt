@@ -1,0 +1,10 @@
+UjElso
+1300
+UjMasodik
+1100
+UjHarmadik
+1001
+UjNegyedik
+500
+UjOtodik
+100

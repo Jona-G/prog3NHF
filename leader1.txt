@@ -1,0 +1,10 @@
+Aladar
+500
+Bela
+450
+Cecilia
+350
+Dani
+300
+Emil
+220

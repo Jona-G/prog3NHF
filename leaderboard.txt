@@ -1,0 +1,10 @@
+Elso
+500
+Masodik
+450
+Harmadik
+350
+Negyedik
+300
+Otodik
+220
